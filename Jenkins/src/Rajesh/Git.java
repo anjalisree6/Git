@@ -9,6 +9,7 @@ public class Git {
 	public void test()
 	{
 		System.out.println("Hello jenkins");
+		System.out.println("It's working fine");
 	}
 	
 	
